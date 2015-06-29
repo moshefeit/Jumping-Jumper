@@ -1,4 +1,12 @@
-# Jumping-Jumper
+#Jumping-Jumper
+
+   A simple endless game made with pure HTML, CSS, and JS. The rule is simple: **get highest score** and **don't touch the ground** to continue scoring.
+
+   Using mouse, **left click** to propel yourself. Once you are in the air **you have to click the background** (small area in front of every wall). Your speed will be faster and fater, and the (next) coming wall's width will become narrow continuously - so good precision is needed. **Every click will gets you score** (+100), once you touch the ground the streak is stopped, score will be return again to 0.
+
+   So, stay flying in the air as long as you can.
+
+
 
 Copyright (c) 2015, [Moshefeit](http://moshefeit.com).
 All rights reserved.
