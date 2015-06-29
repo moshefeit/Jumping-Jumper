@@ -1,15 +1,19 @@
 #Jumping-Jumper
 
-   A simple endless game made with pure HTML, CSS, and JS. The rule is simple: **get highest score** and **don't touch the ground** to continue scoring.
+<center><img src="http://i.imgur.com/7QnLwiK.jpg?1"></img></center>
 
-   Using mouse, **left click** to propel yourself. Once you are in the air **you have to click the background** (small area in front of every wall). Your speed will be faster and fater, and the (next) coming wall's width will become narrow continuously - so good precision is needed. **Every click will gets you score** (+100), once you touch the ground the streak is stopped, score will be return again to 0.
+A simple endless game made with pure HTML, CSS, and JS. The rule is simple: **get highest score** and **don't touch the ground** to continue scoring.
 
-   So, stay flying in the air as long as you can.
+Using mouse, **left click** to propel yourself. Once you are in the air **you have to click the background** (small area in front of every wall). Your speed will be faster and fater, and the (next) coming wall's width will become narrow continuously - so good precision is needed. **Every click will gets you score** (+100), once you touch the ground the streak is stopped, score will be return again to 0.
 
-
+So, stay flying in the air as long as you can.
 
 Copyright (c) 2015, [Moshefeit](http://moshefeit.com).
 All rights reserved.
+
+***
+
+###Notice
 
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions are met:
@@ -36,3 +40,5 @@ LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND
 ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
 SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+***
